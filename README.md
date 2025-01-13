@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oyo1505
 - 👀 I’m interested in React/Nextjs
-- 🌱 I’m currently learning ...nothing
+- 🌱 I’m currently learning japanese
 - 📫 How to reach me bento.me/oyo1505
 
 <!---
